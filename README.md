@@ -60,5 +60,11 @@ Os melhores colocados recebem premiações exclusivas.
 
 ---
 
+---
+
+📌 **Nota**  
+Os conteúdos e atividades deste curso são baseados no repositório oficial da Digital Innovation One (DIO):  
+https://github.com/digitalinnovationone/trilha-python-dio
+
 
 
