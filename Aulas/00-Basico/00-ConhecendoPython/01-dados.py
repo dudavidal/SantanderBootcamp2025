@@ -12,5 +12,3 @@ dict = {"chave": "valor"}  #Dicionário (pares chave-valor
 range = range(5)        #Sequência de números inteiros  
 
 print( 11 + 10 + 5)
-
-dir()
